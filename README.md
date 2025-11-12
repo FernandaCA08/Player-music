@@ -1,4 +1,4 @@
-🎵 Music Player JS
+🎵 Player de Musica JS
 
 Um player de música desenvolvido em JavaScript puro, com funções de play/pause, próximo/anterior, barra de progresso, shuffle e exibição dinâmica de capa e título da música.
 
